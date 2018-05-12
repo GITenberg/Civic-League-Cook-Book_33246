@@ -1,0 +1,25 @@
+_repo: Civic-League-Cook-Book_33246
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Civic League (Williston, North Dakota)
+    gutenberg_agent_id: '37156'
+    url: http://www.gutenberg.org/2009/agents/37156
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2010-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33246'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cooking, American'
+title: Civic League Cook Book
+url: http://www.gutenberg.org/ebooks/33246
